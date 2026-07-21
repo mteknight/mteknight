@@ -35,7 +35,7 @@ Production-scale work (carbon credit trading platforms, CQRS/DDD architectures, 
 
 ## Currently
 
-Senior Technical Lead, US corporate restructuring firm, 2025 to present
-Founder & Solutions Architect, Lumenworks Digital, UK-registered consultancy
+- Senior Technical Lead, US corporate restructuring firm, 2025 to present  
+- Founder & Solutions Architect, Lumenworks Digital, UK-registered consultancy
 
 [LinkedIn](https://go.alexandrefernandes.co.uk/linkedin) · [Website](https://www.alexandrefernandes.co.uk)
